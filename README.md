@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="max-width: 500px;" id="_giphy_l3nWinR8nBoJ4JWGQ"></div><script>var _giphy = _giphy || []; _giphy.push({id: "l3nWinR8nBoJ4JWGQ",w: 631, h: 888});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https://" : "http://") + "giphy.com/static/js/widgets/embed.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);</script>
+http://gph.is/1ZJyKnd
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
