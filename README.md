@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-file:///Users/Lanista/Documents/test2.gif
+<iframe src="//giphy.com/embed/l3nWinR8nBoJ4JWGQ" width="480" height="675" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/iphone-app-prework-l3nWinR8nBoJ4JWGQ">via GIPHY</a></p>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
