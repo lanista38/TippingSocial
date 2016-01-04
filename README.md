@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="//giphy.com/embed/l3nWinR8nBoJ4JWGQ" width="480" height="675" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/iphone-app-prework-l3nWinR8nBoJ4JWGQ">via GIPHY</a></p>
+<div style="max-width: 500px;" id="_giphy_l3nWinR8nBoJ4JWGQ"></div><script>var _giphy = _giphy || []; _giphy.push({id: "l3nWinR8nBoJ4JWGQ",w: 631, h: 888});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https://" : "http://") + "giphy.com/static/js/widgets/embed.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);</script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
